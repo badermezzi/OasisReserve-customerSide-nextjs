@@ -4,6 +4,9 @@ import bg from "@/public/bg.png";
 
 
 export default function Page() {
+
+
+
   return (
     <main className="mt-24">
       <Image placeholder="blur" src={bg} fill quality={80} className="object-cover object-top" alt="Mountains and forests with two cabins" />
